@@ -1,0 +1,5 @@
+git init - инициализация репозитория 
+git add "file name" - добавление файла в коммит
+git commit -m "Сообщение" - фиксация изменений
+git remote origin "адрес репозитория"
+git push -u origin "название ветки"
